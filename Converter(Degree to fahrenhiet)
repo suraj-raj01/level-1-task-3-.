@@ -1,0 +1,97 @@
+<html>
+<title>Suraj's Website</title>
+<body>
+
+
+<h1><marquee>Information</marquee> </h1>
+<h3>
+Hello, I am suraj kumar and  i am an engineering student, 
+i am pursuing B.E.(Bachlor of Engineering) from CSE (computer science and Engineering). 
+Study at Rabindra Nath Tagore University(RNTU), Bhopal(MP)
+</h3>
+
+<div>
+<h3>Enter Your Name: 
+  <input type="text" >
+<br>
+<br>
+Enter  Your  Age :  
+<input type="text ">
+<br>
+<br>
+Enter your mail :
+<input type="email">
+<br><br>
+Enter Password :
+<input type="password">
+<h/3>
+</div>
+<br><br><br>
+<div class"center">
+<fieldset area-setsize="center">
+<h2><b>Remark your Skills</b></h2>
+<big>
+
+<input type="checkbox" id="button" >
+HTML
+<br>
+
+<input type="checkbox" id="button" >
+CSS
+<br>
+
+<input type="checkbox" id="button" >
+JavaScript
+<br>
+
+<input type="checkbox" id="button" >
+PHP
+
+<br>
+<input type="checkbox" id="button">
+C
+
+<br>
+<input type="checkbox" id="button">
+C++
+
+<br>
+<input type="checkbox" id="button">
+Java
+
+<br>
+<input type="checkbox" id="button">
+Python
+
+<br>
+<input type="checkbox" id="button">
+C#
+<br>
+</big>
+</fieldset>
+<h2>
+Tell me about your additional qualification
+</h2>
+
+</div>
+
+<style>
+
+body{
+background-color: lightgrey;
+}
+div{
+margin-left:40px;
+}
+fieldset{
+border-size:0px;
+border-color: Black;
+background-color:white;
+width: 95%;
+}
+.center{
+     width: 20%;
+}
+</style>
+</body>
+</html>
